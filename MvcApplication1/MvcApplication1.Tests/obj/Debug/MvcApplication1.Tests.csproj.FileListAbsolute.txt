@@ -6,3 +6,11 @@ c:\users\abecerra\documents\visual studio 2010\Projects\MvcApplication1\MvcAppli
 c:\users\abecerra\documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.csprojResolveAssemblyReference.cache
 c:\users\abecerra\documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
 c:\users\abecerra\documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
+C:\Users\abecerra\Documents\visual studio 2010\Projects\Simple_Project\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll.config
+C:\Users\abecerra\Documents\visual studio 2010\Projects\Simple_Project\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll
+C:\Users\abecerra\Documents\visual studio 2010\Projects\Simple_Project\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.pdb
+C:\Users\abecerra\Documents\visual studio 2010\Projects\Simple_Project\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.dll
+C:\Users\abecerra\Documents\visual studio 2010\Projects\Simple_Project\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
+C:\Users\abecerra\Documents\visual studio 2010\Projects\Simple_Project\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.csprojResolveAssemblyReference.cache
+C:\Users\abecerra\Documents\visual studio 2010\Projects\Simple_Project\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
+C:\Users\abecerra\Documents\visual studio 2010\Projects\Simple_Project\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
