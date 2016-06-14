@@ -8,5 +8,6 @@
     <h2>About</h2>
     <p>
         Put content here.
+        <%: ViewData["Message"] %>
     </p>
 </asp:Content>

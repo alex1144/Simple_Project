@@ -18,6 +18,8 @@ namespace MvcApplication1.Controllers
 
         public ActionResult About()
         {
+            ViewData["Message"] = "Modificacion del branch de mantenimientos";
+
             return View();
         }
 
