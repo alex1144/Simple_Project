@@ -26,7 +26,7 @@ namespace MvcApplication1.Controllers
         public ActionResult Contact() 
         {
             ViewData["Message"] = "Nueva modificacion";
-
+            ViewData["Titulo"] = "Titulo";
             return View();
         }
     }
